@@ -70,3 +70,50 @@ body {
 	padding-left: 20px;
 	color: white;
 }
+
+.pop_up {
+	height: 150px;
+	width: 300px;
+	background-color: black;
+	position: absolute;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+.pop_up button {
+	float: right;
+}
+
+.pop_up.active {
+	display: block;
+}
+
+.pop_up.inactive {
+	display: none;
+}
+
+.pop_up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
